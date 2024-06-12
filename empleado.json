@@ -7,6 +7,11 @@
     {
         "nombre": "Maria",
         "apellido": "Dolores",
-        "sueldo_base": 500000
+        "sueldo_base": 600000
+    },
+    {
+        "nombre": "Era",
+        "apellido": "Syndulla",
+        "sueldo_base": 800000
     }
 ]
